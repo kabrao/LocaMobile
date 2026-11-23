@@ -1,0 +1,8 @@
+<resources>
+    <color name="bleu_marine">#1F3A5F</color>
+    <color name="orange">#E07A2E</color>
+    <color name="gris_fond">#F4F5F7</color>
+    <color name="gris_bord">#D0D4DA</color>
+    <color name="rouge">#B3261E</color>
+    <color name="blanc">#FFFFFF</color>
+</resources>

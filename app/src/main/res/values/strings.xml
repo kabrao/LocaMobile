@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LocaMobile</string>
+    <string name="titre_liste">Logements disponibles</string>
+    <string name="hint_ville">Ville (vide = toutes)</string>
+    <string name="btn_chercher">Chercher</string>
+    <string name="btn_connexion">Connexion</string>
+    <string name="btn_ajouter">+</string>
+    <string name="titre_detail">Fiche du logement</string>
+    <string name="titre_connexion">Connexion</string>
+    <string name="hint_courriel">Courriel</string>
+    <string name="hint_mot_de_passe">Mot de passe</string>
+    <string name="btn_se_connecter">Se connecter</string>
+    <string name="titre_ajout">Nouveau logement</string>
+    <string name="hint_titre">Titre</string>
+    <string name="hint_ville_ajout">Ville</string>
+    <string name="hint_prix">Prix par nuit (ex. 120.50)</string>
+    <string name="hint_voyageurs">Nombre de voyageurs</string>
+    <string name="btn_publier">Publier le logement</string>
+</resources>

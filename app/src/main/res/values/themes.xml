@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.LocaMobile" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/bleu_marine</item>
+        <item name="colorPrimaryVariant">@color/bleu_marine</item>
+        <item name="colorOnPrimary">@color/blanc</item>
+        <item name="colorSecondary">@color/orange</item>
+    </style>
+</resources>
